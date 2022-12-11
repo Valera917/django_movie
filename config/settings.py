@@ -31,7 +31,7 @@ INSTALLED_APPS = [
     'ckeditor',
     'ckeditor_uploader',
     'movies.apps.MoviesConfig',
-
+    'contact.apps.ContactConfig',
     'snowpenguin.django.recaptcha3',
 ]
 
